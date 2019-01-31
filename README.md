@@ -1,6 +1,6 @@
 # FAN
 
-Afficheur heure, date, température, humidité 
+Ventilateur commandé
 
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildcat](https://github.com/wildcat7534)
 
@@ -21,7 +21,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ## **Montage**
 
-![schema : ](.jpg)
+![schema : ](ventilo_telecommande.jpg)
 
 ## **Code**
 
@@ -67,4 +67,4 @@ void loop() {
 }
 ```
 
-![photo: ](.jpg)
+![photo: ](FAN.jpg)
