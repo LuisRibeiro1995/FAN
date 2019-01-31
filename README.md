@@ -16,7 +16,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 + Arduino
 + Moteur à courant continu
 + Recepteur infrarouge (TL1838)
-+ Pale de ventilateur
++ Ventilateur
 + Telecommande
 
 ## **Montage**
